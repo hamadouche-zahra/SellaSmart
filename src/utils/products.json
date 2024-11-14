@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Hamoud Boualem Lemonade 1L",
+    "barcode": "611110000001",
+    "price": 90,
+    "aisle": "Beverages",
+    "position": "2nd shelf, left side",
+    "description": "A refreshing, traditional Algerian lemonade with a zesty lemon flavor. Known for its effervescence, Hamoud Boualem has been a favorite in Algeria for over a century."
+  },
+  {
+    "id": 2,
+    "name": " Skor Cevital 1kg",
+    "barcode": "6130234002366",
+    "price": 100,
+    "aisle": "Sugar and Sweeteners",
+    "position": "1st shelf, middle",
+    "description": "High-quality granulated sugar from Cevital, Algeria's leading sugar producer. Ideal for daily use in cooking, baking, and beverages."
+  },
+  {
+    "id": 3,
+    "name": "Ifri Water 1.5L",
+    "barcode": "6134082000024",
+    "price": 45,
+    "aisle": "Beverages",
+    "position": "1st shelf, right side",
+    "description": "Pure, refreshing natural mineral water sourced from the mountains of Ifri in Algeria. Known for its balanced mineral content and clean taste."
+  },
+  {
+    "id": 4,
+    "name": "Rouiba Nectar 1L",
+    "barcode": "6134082000035",
+    "price": 120,
+    "aisle": "Juices and Drinks",
+    "position": "3rd shelf, left side",
+    "description": "Delicious and thick fruit nectar from Rouiba, made with carefully selected fruits. A staple in Algerian households, perfect for any occasion."
+  },
+  {
+    "id": 5,
+    "name": "Numidia Olive Oil 500ml",
+    "barcode": "6112234002366",
+    "price": 350,
+    "aisle": "Cooking Oils",
+    "position": "2nd shelf, right side",
+    "description": "Premium extra virgin olive oil from Numidia, known for its rich flavor and high quality. Produced from olives grown in Algeria’s fertile lands."
+  },
+  {
+    "id": 6,
+    "name": "Café 1001 250g",
+    "barcode": "6130661000041",
+    "price": 250,
+    "aisle": "Coffee and Tea",
+    "position": "1st shelf, left side",
+    "description": "Rich and aromatic ground coffee from Algeria, Café 1001 offers a bold and authentic taste with a smooth finish. Made from carefully selected coffee beans, it's a favorite for coffee lovers seeking quality and tradition in every cup."
+  },
+  {
+    "id": 7,
+    "name": "Taya Water 1.5L",
+    "barcode": "6135366000013",
+    "price": 45,
+    "aisle": "Beverages",
+    "position": "1st shelf, right side",
+    "description": "Pure, refreshing natural mineral water sourced from the mountains of Ifri in Algeria. Known for its balanced mineral content and clean taste."
+  }
+
+]
