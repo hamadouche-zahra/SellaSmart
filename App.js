@@ -7,6 +7,7 @@ import Product from './src/screens/Product';
 import { CartProvider } from './src/contexts/CartContext';
 import ProductSearch from './src/screens/ProductSearch';
 import CheckoutScreen from './src/screens/CheckoutScreen';
+import Welcome from './src/screens/Welcome';
 
 const Stack = createStackNavigator();
 
@@ -15,8 +16,14 @@ const App = () => {
     <CartProvider>
     <NavigationContainer>
       <Stack.Navigator>
-      
-         <Stack.Screen 
+       
+        <Stack.Screen 
+          name="Welcome" 
+          component={Welcome} 
+          options={{ headerShown: false }}  
+        /> 
+          
+        <Stack.Screen 
           name="Home" 
           component={Home} 
           options={{ headerShown: false }}  
