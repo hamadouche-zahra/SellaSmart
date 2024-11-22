@@ -24,7 +24,7 @@ function Home() {
       <View style={styles.promoSection}>
         <Text style={styles.promoTitle}>Sella Smart</Text>
         <Text style={styles.promoDescription}>
-          Discover our latest healthy food promotions and enjoy fresh products!
+        Simplify your shopping experience with smart cart detection, real-time totals, and effortless navigation!
         </Text>
         <Image
           source={require('../assets/10929810.png')}
@@ -41,7 +41,7 @@ function Home() {
         <Text style={styles.scanButtonText}>Scan</Text>
       </TouchableOpacity>
       <TouchableOpacity style={styles.searchButton} onPress={handleSearchPress} >
-          <Icon name="search-outline" size={26} color="#4A90E2" style={styles.buttonIcon} />
+          <Icon name="search-outline" size={26} color="#FF9003" style={styles.buttonIcon} />
           <Text style={styles.searchButtonText}>Search</Text>
         </TouchableOpacity>
       </View>
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     width: '100%',
     height: 60,
     paddingHorizontal: 20,
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#FF9003',
     flexDirection: 'row',
     justifyContent: 'flex-end',
     alignItems: 'center',
@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   promoTitle: {
     fontSize: 26,
     fontWeight: 'bold',
-    color: '#4A90E2', 
+    color: '#FF9003', 
     marginBottom: 8,
   },
   promoDescription: {
@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
   scanButton: {
     flexDirection: 'column',  
     alignItems: 'center',
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#FF9003',
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 30,
@@ -164,7 +164,7 @@ const styles = StyleSheet.create({
   },
   searchButtonText: {
     fontSize: 18,
-    color: '#4A90E2',
+    color: '#FF9003',
     fontWeight: '600',
     letterSpacing: 0.5,
   },

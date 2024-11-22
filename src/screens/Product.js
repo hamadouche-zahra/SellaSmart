@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
   },
   header: {
     alignItems: 'center',
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#FF9003',
     paddingVertical: 15,
     borderRadius: 10,
     marginBottom: 20,
@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
   },
   priceLabel: {
     fontSize: 18,
-    color: '#4A90E2',
+    color: '#FF9003',
     fontWeight: 'bold',
   },
   price: {
@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
     width: 40,
     height: 40,
     borderRadius: 8,
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#FF9003',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -185,11 +185,11 @@ const styles = StyleSheet.create({
   },
   addToCartButtonText: {
     fontSize: 18,
-    color: '#4A90E2',
+    color: '#FF9003',
     fontWeight: 'bold',
   },
   scanMoreButton: {
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#FF9003',
     paddingVertical: 15,
     borderRadius: 10,
     alignItems: 'center',

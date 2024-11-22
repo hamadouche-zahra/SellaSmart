@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
         shadowRadius: 5,
         elevation: 3,
         borderLeftWidth: 5,
-        borderColor: '#4A90E2', 
+        borderColor: '#FF9003', 
         position: 'relative',
       },
       itemDetails: {
@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
       marginBottom: 15,
     },
     confirmButton: {
-      backgroundColor: '#4A90E2',
+      backgroundColor: '#FF9003',
       paddingVertical: 12,
       borderRadius: 8,
       justifyContent: 'center',

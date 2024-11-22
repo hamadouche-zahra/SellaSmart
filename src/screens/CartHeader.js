@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     width: '100%',
     height: 60,
     paddingHorizontal: 20,
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#FF9003',
     flexDirection: 'row',
     justifyContent: 'flex-end',
     alignItems: 'center',
@@ -178,7 +178,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#4A90E2',
+    color: '#FF9003',
   },
   closeButton: {
     color: 'red',
@@ -249,7 +249,7 @@ const styles = StyleSheet.create({
   totalValue: {
     fontSize: 16,
     fontWeight: 'bold',
-    color: '#4A90E2',
+    color: '#FF9003',
   },
   actions: {
     flexDirection: 'row',
@@ -270,7 +270,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   checkoutButton: {
-    backgroundColor: '#4A90E2',
+    backgroundColor: '#FF9003',
     padding: 12,
     borderRadius: 10,
     justifyContent: 'center',
