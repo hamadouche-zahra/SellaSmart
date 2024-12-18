@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Hamoud Boualem Lemonade 1L",
-    "barcode": "611110000001",
+    "barcode": "6130695111348",
     "price": 90,
     "aisle": "Beverages",
     "position": "2nd shelf, left side",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Ifri Water 1.5L",
-    "barcode": "6134082000024",
+    "barcode": "6130093010069",
     "price": 45,
     "aisle": "Beverages",
     "position": "1st shelf, right side",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Rouiba Nectar 1L",
-    "barcode": "6134082000035",
+    "barcode": "6130002002932",
     "price": 120,
     "aisle": "Juices and Drinks",
     "position": "3rd shelf, left side",
@@ -37,12 +37,12 @@
   },
   {
     "id": 5,
-    "name": "Numidia Olive Oil 500ml",
+    "name": "Pâte a tartiner El Mordjane 200 g ",
     "barcode": "6112234002366",
-    "price": 350,
-    "aisle": "Cooking Oils",
+    "price": 225,
+    "aisle": "Spreads & Jams", 
     "position": "2nd shelf, right side",
-    "description": "Premium extra virgin olive oil from Numidia, known for its rich flavor and high quality. Produced from olives grown in Algeria’s fertile lands."
+    "description": "Delicious spread with a rich and creamy taste, perfect for enhancing your breakfasts and snacks. Made with high-quality ingredients."
   },
   {
     "id": 6,
@@ -61,6 +61,78 @@
     "aisle": "Beverages",
     "position": "1st shelf, right side",
     "description": "Pure, refreshing natural mineral water sourced from the mountains of Ifri in Algeria. Known for its balanced mineral content and clean taste."
+  },
+  {
+    "id": 8,
+    "name": "Fromage 16 portions OKID'S",
+    "barcode": "6130783000486",
+    "price": 250,
+    "aisle": "Dairy",
+    "position": "First shelf, right side",
+    "description": "Delicious and creamy 16-portion cheese, perfect for snacks, sandwiches, or cooking. A convenient choice for families looking for a balanced, tasty, and versatile cheese option."
+  },
+  {
+    "id": 9,
+    "name": "Soummam Yago Yaourt Fraise 1L",
+    "barcode": "6130760001864",
+    "price": 140,
+    "aisle": "Dairy",
+    "position": "First shelf, right side",
+    "description": " A delicious and creamy strawberry yogurt in a 1-liter bottle, perfect for a refreshing snack or dessert. It's a convenient option for those looking for a tasty, fruity treat."
+  },
+  {
+    "id": 10,
+    "name": "Thon Entier Maratun A l'Huile Végétale",
+    "barcode": "6130504001228",
+    "price": 630,
+    "aisle": "Canned Goods",
+    "position": "1st shelf, left side",
+    "description": "A whole tuna product preserved in vegetable oil. It offers a rich and flavorful taste, making it a versatile choice for various dishes, salads, and sandwiches."
+  },
+  {
+    "id": 11,
+    "name": "La Belle Margarine 500G",
+    "barcode": "6132004000022",
+    "price": 180,
+    "aisle": "Dairy and Spreads",
+    "position": "1st shelf, left side",
+    "description": "La Belle Margarine is a creamy margarine perfect for spreading on bread, baking, or cooking. It offers a rich, smooth texture and a mild flavor, making it a versatile choice for everyday use in the kitchen."
+  },
+  {
+    "id": 12,
+    "name": "La Belle Margarine 500G",
+    "barcode": "6132004000022",
+    "price": 180,
+    "aisle": "Dairy and Spreads",
+    "position": "1st shelf, left side",
+    "description": "La Belle Margarine is a creamy margarine perfect for spreading on bread, baking, or cooking. It offers a rich, smooth texture and a mild flavor, making it a versatile choice for everyday use in the kitchen."
+  },
+  {
+    "id": 13,
+    "name": "Mayonnaise Lesieur 425g",
+    "barcode": "6135345000058",
+    "price": 350,
+    "aisle": "Condiments and Sauces",
+    "position": "1st shelf, left side",
+    "description": "Lesieur Mayonnaise is a creamy and flavorful condiment made with quality ingredients. Perfect for enhancing sandwiches, salads, and various dishes, it offers a rich, smooth texture and a balanced taste that complements any meal"
+  },
+  {
+    "id": 14,
+    "name": "Candia Viva Lait 1L",
+    "barcode": "6130433000385",
+    "price": 140,
+    "aisle": "Dairy",
+    "position": "1st shelf, front row",
+    "description": "Candia Viva Milk is a high-quality 1-liter milk, rich in nutrients and perfect for daily consumption. Enjoy its smooth and fresh taste, ideal for drinking, cooking, or adding to your favorite recipes."
+  },
+  {
+    "id": 15,
+    "name": "Tomate CB 400g",
+    "barcode": "6134643000043",
+    "price": 160,
+    "aisle": "Canned Goods",
+    "position": "1st shelf, front row",
+    "description": "Tomate CB 400g is a high-quality canned tomato product, ideal for preparing sauces, soups, and a variety of dishes. Made from ripe and flavorful tomatoes, it offers convenience and great taste for everyday cooking"
   }
 
 ]
